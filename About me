@@ -1,0 +1,61 @@
+# ABOUT ME
+I am a tech enthusiast with experience in managing the full game development lifecycle—from concept and prototyping to testing and deployment—primarily using the Unity engine. Passionate about building immersive, interactive experiences with a strong focus on performance and player engagement. Eager to join a creative team to contribute fresh ideas, grow technically, and develop high-quality games for PC and mobile platforms.
+
+
+# SKILLS
+•unity3d
+•unity2d
+•c#
+•Team work
+•Creative work
+
+# PROJECTS
+👜Bowling (Unity3D)
+
+Implementing realistic physics for accurate pin and ball interactions and Scripted realistic ball
+
+dynamics using Unity's Rigidbody and physics engine for authentic gameplay feel
+
+Integrated music and sound effects for rolling ball, pin collision.
+
+👜Pizza Delivery (Unity2D)
+
+Focusing on user-friendly gameplay and appealing graphics.
+
+Managed game state logic including score tracking, speed booster and win/lose conditions.
+
+👜Jet Parking (Unity3D)
+
+Basic 3d game featuring five levels.
+
+Designed and developed game mechanics, level design.
+
+👜Tank vs Tank (Unity3D)
+
+A tank battle game in Unity, focusing on player vs enemy tank combat in an engaging 3D environment.
+
+Created an enemy Al system for opponent tanks, including patrol, detection, and attack behaviors.
+
+Scripted firing mechanics with projectile physics, collision detection and integrated a dynamic health bar Ul for both player.
+
+Add visual and sound effects
+
+👜Plane Travel (Unity3D)
+
+Created a small 3D project utilizing Unity Timeline and sequencing animations.
+
+Focused on integrating animations and smooth transaction and terrain making.
+
+👜Ball Bouncing (Mobile Android)
+
+•Gyroscope Control
+
+Applied gyroscope input to adjust the character's balance (e.g., rotation, force, or torque).
+
+•Balancing Mechanic
+
+The base/platform should move or tilt slightly.
+
+The player's goal is to stay balanced
+
+
